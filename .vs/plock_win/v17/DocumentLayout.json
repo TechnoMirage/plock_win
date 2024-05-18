@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maxance\\Desktop\\plock_win\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0CF534-E1E5-44B8-9AB1-0073D5E493BC}|plock_win\\plock_win.vcxproj|C:\\Users\\Maxance\\Desktop\\plock_win\\plock_win\\plock_win.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED0CF534-E1E5-44B8-9AB1-0073D5E493BC}|plock_win\\plock_win.vcxproj|solutionrelative:plock_win\\plock_win.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plock_win.cpp",
+              "DocumentMoniker": "C:\\Users\\Maxance\\Desktop\\plock_win\\plock_win\\plock_win.cpp",
+              "RelativeDocumentMoniker": "plock_win\\plock_win.cpp",
+              "ToolTip": "C:\\Users\\Maxance\\Desktop\\plock_win\\plock_win\\plock_win.cpp",
+              "RelativeToolTip": "plock_win\\plock_win.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T23:51:56.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
